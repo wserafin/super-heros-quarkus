@@ -1,0 +1,8 @@
+io/quarkus/workshop/superheroes/villain/VillainService.class
+io/quarkus/workshop/superheroes/villain/VillainApplicationLifeCycle.class
+io/quarkus/workshop/superheroes/villain/VillainApplication.class
+io/quarkus/workshop/superheroes/villain/health/DatabaseConnectionHealthCheck.class
+META-INF/panache-archive.marker
+io/quarkus/workshop/superheroes/villain/health/PingVillainResourceHealthCheck.class
+io/quarkus/workshop/superheroes/villain/VillainResource.class
+io/quarkus/workshop/superheroes/villain/Villain.class
